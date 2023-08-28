@@ -1,0 +1,7 @@
+{
+  "name": "Boludes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
